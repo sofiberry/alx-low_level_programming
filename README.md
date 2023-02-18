@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Hey!+You+Are+Welcome+To+My+Profile!;My+Name+Is+Solomon+Belay+.;I+Am+Passionate+About+Coding;I+Learn+By+Doing!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 
