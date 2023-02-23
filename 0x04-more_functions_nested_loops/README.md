@@ -1,4 +1,5 @@
 # More about Functions And Nested loops
-## Activity Implemetation Detail
+## Project Implemetation Detail
+- `main.h` file is the header file containing all the function prototypes.
 - Without using either printf or puts.
 - Implemented by using _putchar.
