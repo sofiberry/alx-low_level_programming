@@ -1,2 +1,2 @@
 # `C` Programming
-- ** More about singly linked lists.
+- ** More about singly linked lists. **
